@@ -1,0 +1,89 @@
+body {
+    background-image: url("images/pad.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 60px;
+    color: black;
+    padding-top: 5%;
+}
+
+.btn-danger {
+    size: 40px;
+}
+
+li {
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+
+#page2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a {
+    color: black;
+}
+
+form {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 30%;
+    padding-bottom: 5%;
+    color: black;
+    font-size: 30px;
+}
+
+#page4 {
+    font-size: 30px;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#page6 {
+    font-size: 30px;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#page7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#page8 {
+    font-size: 30px;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#page9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+li {
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+p.oblique {
+    font-style: oblique;
+}
