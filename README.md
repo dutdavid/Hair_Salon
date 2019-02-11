@@ -15,6 +15,8 @@ _The applications allows users to do the following:_
 * _Add a new stylist_
 * _Add a client to the stylist_
 * _Delete a stylist_
+* _Delete a client_
+
 
 ## Setup/Installation Requirements 
 1.On GitHub, navigate to the main page of the repository.
