@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/black-hair-salon-clipart-1.jpg");
+    background-image: url("images/ws_In_Pink_1920x1200.jpg");
     background-size: cover;
     text-align: center;
 }
@@ -8,7 +8,7 @@ body {
 h1 {
     font-family: "Times New Roman", Times, serif;
     font-size: 60px;
-    color: palevioletred;
+    color: black;
     padding-top: 5%;
 }
 
@@ -19,7 +19,7 @@ h1 {
 li {
     font-size: 30px;
     font-family: "Times New Roman", Times, serif;
-    color: palevioletred;
+    color: black;
 }
 
 #page2 {
@@ -30,7 +30,7 @@ li {
 }
 
 a {
-    color: palevioletred;
+    color: black;
 }
 
 form {
@@ -38,19 +38,19 @@ form {
     padding-left: 10%;
     padding-right: 30%;
     padding-bottom: 5%;
-    color: palevioletred;
+    color: black;
     font-size: 30px;
 }
 
 #page4 {
     font-size: 30px;
-    color: palevioletred;
+    color: black;
     font-family: "Times New Roman", Times, serif;
 }
 
 #page6 {
     font-size: 30px;
-    color: palevioletred;
+    color: black;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -62,13 +62,13 @@ form {
 }
 
 h2 {
-    color: palevioletred;
+    color: black;
     font-family: "Times New Roman", Times, serif;
 }
 
 #page8 {
     font-size: 30px;
-    color: palevioletred;
+    color: black;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -82,7 +82,7 @@ h2 {
 li {
     font-size: 30px;
     font-family: "Times New Roman", Times, serif;
-    color: palevioletred;
+    color: black;
 }
 p.oblique {
     font-style: oblique;
