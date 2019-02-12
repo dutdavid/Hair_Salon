@@ -11,10 +11,6 @@ public DatabaseRule database = new DatabaseRule();
   public void instantiate() {
     mClient = new Client("Vivian", 1);
   }
-
-
-
-
         @Test
         public void Client_instantiatesCorrectly_true() {
           assertEquals(true, mClient instanceof Client);
