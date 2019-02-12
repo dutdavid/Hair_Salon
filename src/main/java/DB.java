@@ -9,7 +9,6 @@ public class DB {
     public static Sql2o sql2o;
 
     static Logger logger = LoggerFactory.getLogger(DB.class);
-
     static {
     
         try {
